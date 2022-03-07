@@ -48,7 +48,7 @@ _PalletTownText5::
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "Casa d'en <PLAYER>"
 	done
 
 _PalletTownText7::
