@@ -1,56 +1,56 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "Garrover: Uep!"
+	line "Tu! On vas?@"
 	text_end
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "Garrover: Cap de fava!"
+	line "Es Mopis te"
+	cont "faran tris tras!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Necessites es teu"
+	line "propi Mopi que"
+	cont "te cuidi."
+	cont "Batuadell!"
 
-	para "Here, come with"
-	line "me!"
+	para "Idó, vine amb"
+	line "mi!"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "Te trobaras gent"
+	line "que xerra raro"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Son guiris"
+	line "borratxos, no els"
+	cont "hi facis cas"
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
+	text "I wanted to see"
+	line "'La Seu'."
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "But somehow,"
+	line "I ended up here."
+	cont "Do you know how"
+	cont "to get there?"
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "Lab de Mopis d'en"
+	line "Prof. Garrover"
 	done
 
 _PalletTownText5::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "Búger"
+	line "Mancomunitat"
+	cont "'Es Raiguer'"
 	done
 
 _PalletTownText6::
-	text "Casa d'en <PLAYER>"
+	text "Ca'n <PLAYER>"
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text "Ca'n <RIVAL>"
 	done
