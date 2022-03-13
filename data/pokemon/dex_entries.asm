@@ -1185,7 +1185,7 @@ CharmanderDexEntry:
 	text_end
 
 SquirtleDexEntry:
-	db "Mediterrania@"
+	db "Mediterani@"
 	db 1,8
 	dw 200
 	text_far _SquirtleDexEntry

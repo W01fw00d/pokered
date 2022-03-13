@@ -9,7 +9,7 @@ MoveNames::
 	li "FIRE PUNCH"
 	li "ICE PUNCH"
 	li "THUNDERPUNCH"
-	li "SCRATCH"
+	li "Trinchar"
 	li "VICEGRIP"
 	li "GUILLOTINE"
 	li "RAZOR WIND"

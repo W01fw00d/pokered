@@ -1250,12 +1250,14 @@ _StarmieDexEntry::
 
 _BulbasaurDexEntry::
 	text "Menjar tradicional"
-	next "en festes tradicionals"
+	next "en festes"
+	next "tradicionals"
 	next "a ses illes."
 
-	page "Solen tenir a la pasta"
-	next "ous i patata o"
-	next "moniato (o ambdues coses)"
+	page "Solen tenir a la"
+	next "pasta ous i patata"
+	next "o moniato"
+	next "(o ambdues coses)"
 	dex
 
 _VenusaurDexEntry::
@@ -1403,19 +1405,23 @@ _CharmanderDexEntry::
 	next "de sa Peninsula."
 	next "Com es una especie"
 
-	page "invasora, els pagesos"
-	next "els intenten exterminar"
-	next "amb foc, pero no funciona"
+	page "invasora, els"
+	next "pagesos els"
+	next "intenten exterminar"
+	next "amb foc,"
+	next "pero no funciona"
 	dex
 
 _SquirtleDexEntry::
-	text "Sa tortuga mediterrania"
+	text "Sa tortuga"
+	next "mediterrania"
 	next "o tortuga de terra"
 	next "(Testudo hermanni)"
 
-	page "es una especie de tortuga"
-	next "de la familia dels"
-	next "testudinids"
+	page "es una especie"
+	next "de tortuga"
+	next "de la familia"
+	next "dels testudinids"
 	dex
 
 _CharmeleonDexEntry::

@@ -66,8 +66,8 @@ JapaneseMainMenuText:
 	next "さいしょから@"
 
 BattleMenuText:
-	db   "FIGHT <PK><MN>"
-	next "ITEM  RUN@"
+	db   "LLUITA MOPIS"
+	next "ITEM  CORR@"
 
 SafariZoneBattleMenuText:
 	db   "BALL×       BAIT"

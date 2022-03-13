@@ -9,10 +9,10 @@ _AIBattleWithdrawText::
 _AIBattleUseItemText::
 	text_ram wTrainerName
 	text_start
-	line "used @"
+	line "empra @"
 	text_ram wcd6d
 	text_start
-	cont "on @"
+	cont "en @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
@@ -836,10 +836,10 @@ _WildRanText::
 	prompt
 
 _EnemyRanText::
-	text "Enemy @"
+	text "L'enemic @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "corr!"
 	prompt
 
 _HurtByPoisonText::
@@ -858,10 +858,10 @@ _HurtByLeechSeedText::
 	prompt
 
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "L'enemic @"
 	text_ram wEnemyMonNick
 	text_start
-	line "fainted!"
+	line "ha fet un queck!"
 	prompt
 
 _MoneyForWinningText::
@@ -881,11 +881,11 @@ _TrainerDefeatedText::
 _PlayerMonFaintedText::
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "ha fet un queck!"
 	prompt
 
 _UseNextMonText::
-	text "Use next #MON?"
+	text "Emprar altre Mopi?"
 	done
 
 _Rival1WinText::
@@ -922,8 +922,8 @@ _TrainerAboutToUseText::
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " sent"
-	line "out @"
+	text " envia"
+	line "a @"
 	text_ram wEnemyMonNick
 	text "!"
 	done
@@ -1081,12 +1081,12 @@ _MonName1Text::
 
 _Used1Text::
 	text_start
-	line "used @"
+	line "emprea @"
 	text_end
 
 _Used2Text::
 	text_start
-	line "used @"
+	line "emprea @"
 	text_end
 
 _InsteadText::
@@ -1140,7 +1140,7 @@ _DoesntAffectMonText::
 	prompt
 
 _CriticalHitText::
-	text "Critical hit!"
+	text "Cop Critic!"
 	prompt
 
 _OHKOText::
@@ -1256,8 +1256,8 @@ _EnemyAppearedText::
 
 _TrainerWantsToFightText::
 	text_ram wTrainerName
-	text " wants"
-	line "to fight!"
+	text " vol"
+	line "lluitar!"
 	prompt
 
 _UnveiledGhostText::
@@ -1753,9 +1753,9 @@ _OakSpeechText3::
 	done
 
 _DoYouWantToNicknameText::
-	text "Do you want to"
-	line "give a nickname"
-	cont "to @"
+	text "Vols posarli"
+	line "un nom"
+	cont "a @"
 	text_ram wcd6d
 	text "?"
 	done

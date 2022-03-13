@@ -9,7 +9,7 @@ _OaksLabText40::
 	line "jo no soc un"
 	cont "ansia com tu!"
 
-	para "Jo m'esper i despres"
+	para "Jo m'esper i ja"
 	line "me quedare el que"
 	cont "guanyi al teu Mopi!"
 	done
@@ -33,7 +33,7 @@ _OaksLabCharmanderText::
 
 _OaksLabSquirtleText::
 	text "Ido! Vols sa"
-	line "Tortugueta? No"
+	line "Tortuga? No"
 	cont "es ni tan sols"
 
 	para "un Mopi, es un"
@@ -246,13 +246,13 @@ _OaksLabLeavingText::
 	done
 
 _OaksLabRivalPickingMonText::
-	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	text "<RIVAL>: Me qued"
+	line "aquest per jo!"
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> received"
-	line "a @"
+	text "<RIVAL> reb"
+	line "un @"
 	text_ram wcd6d
 	text "!@"
 	text_end
