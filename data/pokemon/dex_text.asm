@@ -1249,13 +1249,13 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Menjar tradicional"
+	next "en festes tradicionals"
+	next "a ses illes."
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "Solen tenir a la pasta"
+	next "ous i patata o"
+	next "moniato (o ambdues coses)"
 	dex
 
 _VenusaurDexEntry::
@@ -1399,23 +1399,23 @@ _MagnemiteDexEntry::
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Es originari"
+	next "de sa Peninsula."
+	next "Com es una especie"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "invasora, els pagesos"
+	next "els intenten exterminar"
+	next "amb foc, pero no funciona"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Sa tortuga mediterrania"
+	next "o tortuga de terra"
+	next "(Testudo hermanni)"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "es una especie de tortuga"
+	next "de la familia dels"
+	next "testudinids"
 	dex
 
 _CharmeleonDexEntry::

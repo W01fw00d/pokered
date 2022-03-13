@@ -176,7 +176,7 @@ MonsterNames::
 	db "MISSINGNO."
 	db "MISSINGNO."
 	db "Santander@"
-	db "Tortugueta"
+	db "Tortuga@@@"
 	db "Murcia@@@@"
 	db "WARTORTLE@"
 	db "CHARIZARD@"

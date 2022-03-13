@@ -16,8 +16,8 @@ ViridianMartParcelQuestText::
 	line "Will you take it"
 	cont "to him?"
 
-	para "<PLAYER> got"
-	line "OAK's PARCEL!@"
+	para "<PLAYER> ara te"
+	line "una Panada!@"
 	text_end
 
 _ViridianMartText2::

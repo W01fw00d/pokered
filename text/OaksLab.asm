@@ -85,81 +85,80 @@ _OaksLabText_1d2f5::
 	done
 
 _OaksLabText_1d2fa::
-	text "OAK: <PLAYER>,"
-	line "raise your young"
-	cont "#MON by making"
-	cont "it fight!"
+	text "Garrover: <PLAYER>,"
+	line "entrena es teu"
+	cont "Mopi fent que"
+	cont "lluiti!"
 	done
 
 _OaksLabDeliverParcelText1::
-	text "OAK: Oh, <PLAYER>!"
+	text "Garrover: Uep, <PLAYER>!"
 
-	para "How is my old"
-	line "#MON?"
+	para "Com se troba es"
+	line "meu vell Mopi?"
 
-	para "Well, it seems to"
-	line "like you a lot."
+	para "Bé, pareix que troba"
+	line "que ets molt agut."
 
-	para "You must be"
-	line "talented as a"
-	cont "#MON trainer!"
+	para "Deus tenir un"
+	line "talent per a"
+	cont "entrenar Mopis!"
 
-	para "What? You have"
-	line "something for me?"
+	para "Que? Tens algo"
+	line "per a mi?"
 
-	para "<PLAYER> delivered"
-	line "OAK's PARCEL.@"
+	para "<PLAYER> ha entregat"
+	line "sa Panada.@"
 	text_end
 
 _OaksLabDeliverParcelText2::
 	text_start
-	para "Ah! This is the"
-	line "custom # BALL"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "Ido! Has anat"
+	line "fins a Valldemossa"
+	cont "a comprar coques?"
+	cont "Grasis, rei!"
 	done
 
 _OaksLabAroundWorldText::
-	text "#MON around the"
-	line "world wait for"
-	cont "you, <PLAYER>!"
+	text "Es Mopis de tota"
+	line "s'illa t'esperen,"
+	cont "<PLAYER>!"
 	done
 
 _OaksLabGivePokeballsText1::
-	text "OAK: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
-	cont "seeing them."
+	text "Garrover: No basta"
+	line "amb veure es Mopis"
+	cont "per aprendre els"
+	cont "seus secrets."
 
-	para "You must catch"
-	line "them! Use these"
-	cont "to capture wild"
-	cont "#MON."
+	para "Els has de cazar!"
+	line "Tirals'hi aquestes"
+	cont "Pilotes i s'uniran"
+	cont "al teu equip"
 
-	para "<PLAYER> got 5"
-	line "# BALLs!@"
+	para "<PLAYER> ara te 5"
+	line "Pilotes!@"
 	text_end
 
 _OaksLabGivePokeballsText2::
 	text_start
-	para "When a wild"
-	line "#MON appears,"
-	cont "it's fair game."
+	para "Quan un Mopi"
+	line "salvatge apareix,"
+	cont "el pots cazar!"
 
-	para "Just throw a #"
-	line "BALL at it and try"
-	line "to catch it!"
+	para "Tirali una Pilota"
+	line "i intenta"
+	line "capturarlo!"
 
-	para "This won't always"
-	line "work, though."
+	para "No sempre funciona,"
+	line "pero."
 
-	para "A healthy #MON"
-	line "could escape. You"
-	cont "have to be lucky!"
+	para "Si es Mopi esta sa,"
+	line "se podria escapar"
 	done
 
 _OaksLabPleaseVisitText::
-	text "OAK: Come see me"
+	text "Garrover: Come see me"
 	line "sometimes."
 
 	para "I want to know how"
@@ -168,7 +167,7 @@ _OaksLabPleaseVisitText::
 	done
 
 _OaksLabText_1d31d::
-	text "OAK: Good to see "
+	text "Garrover: Good to see "
 	line "you! How is your "
 	cont "#DEX coming? "
 	cont "Here, let me take"
@@ -202,7 +201,7 @@ _OaksLabRivalWaitingText::
 	done
 
 _OaksLabChooseMonText::
-	text "OAK: <RIVAL>?"
+	text "Garrover: <RIVAL>?"
 	line "Let me think..."
 
 	para "Oh, that's right,"
@@ -236,13 +235,13 @@ _OaksLabRivalInterjectionText::
 	done
 
 _OaksLabBePatientText::
-	text "OAK: Be patient!"
+	text "Garrover: Be patient!"
 	line "<RIVAL>, you can"
 	cont "have one too!"
 	done
 
 _OaksLabLeavingText::
-	text "OAK: Hey! Don't go"
+	text "Garrover: Hey! Don't go"
 	line "away yet!"
 	done
 
@@ -300,7 +299,7 @@ _OaksLabText22::
 	done
 
 _OaksLabText23::
-	text "OAK: Oh right! I"
+	text "Garrover: Oh right! I"
 	line "have a request"
 	cont "of you two."
 	done
@@ -320,7 +319,7 @@ _OaksLabText24::
 	done
 
 _OaksLabText25::
-	text "OAK: <PLAYER> and"
+	text "Garrover: <PLAYER> and"
 	line "<RIVAL>! Take"
 	cont "these with you!"
 
