@@ -4,8 +4,8 @@ _OakAppearsText::
 	text_end
 
 _OakWalksUpText::
-	text "Garrover: Cap de fava!"
-	line "Es Mopis te"
+	text "Garrover: Cap de"
+	line "fava! Es Mopis te"
 	cont "faran tris tras!"
 
 	para "Necessites es teu"
@@ -13,13 +13,13 @@ _OakWalksUpText::
 	cont "te cuidi."
 	cont "Batuadell!"
 
-	para "Idó, vine amb"
+	para "Ido, vine amb"
 	line "mi!"
 	done
 
 _PalletTownText2::
 	text "Te trobaras gent"
-	line "que xerra raro"
+	line "que xerra raro..."
 
 	para "Son guiris"
 	line "borratxos, no els"
@@ -42,7 +42,7 @@ _PalletTownText4::
 	done
 
 _PalletTownText5::
-	text "Búger"
+	text "Buger."
 	line "Mancomunitat"
 	cont "'Es Raiguer'"
 	done

@@ -1,76 +1,87 @@
 _OaksLabGaryText1::
-	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	text "<RIVAL>: Uep!"
+	line "<PLAYER>! Es Padri"
+	cont "no hi es!"
 	done
 
 _OaksLabText40::
-	text "<RIVAL>: Heh, I"
-	line "don't need to be"
-	cont "greedy like you!"
+	text "<RIVAL>: Jejeje,"
+	line "jo no soc un"
+	cont "ansia com tu!"
 
-	para "Go ahead and"
-	line "choose, <PLAYER>!"
+	para "Jo m'esper i despres"
+	line "me quedare el que"
+	cont "guanyi al teu Mopi!"
 	done
 
 _OaksLabText41::
-	text "<RIVAL>: My"
-	line "#MON looks a"
-	cont "lot stronger."
+	text "<RIVAL>: Es"
+	line "meu Mopi te"
+	cont "millor pinta."
 	done
 
 _OaksLabText39::
-	text "Those are #"
-	line "BALLs. They"
-	cont "contain #MON!"
+	text "Aixo son Pilotes"
+	line "A dins hi ha Mopis!"
 	done
 
 _OaksLabCharmanderText::
-	text "So! You want the"
-	line "fire #MON,"
-	cont "CHARMANDER?"
+	text "Ido! Vols es"
+	line "Mopi foraster,"
+	cont "Santander...?"
 	done
 
 _OaksLabSquirtleText::
-	text "So! You want the"
-	line "water #MON,"
-	cont "SQUIRTLE?"
+	text "Ido! Vols sa"
+	line "Tortugueta? No"
+	cont "es ni tan sols"
+
+	para "un Mopi, es un"
+	line "animal i ja"
 	done
 
 _OaksLabBulbasaurText::
-	text "So! You want the"
-	line "plant #MON,"
-	cont "BULBASAUR?"
+	text "Ido! Tens fam?"
+	line "Te puc donar"
+	cont "aquest Bunyol,"
+
+	para "pero no li diguis"
+	line "a ta mare!"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
-	line "really energetic!"
+	text "Tot per tu!"
+	line "Tens 15 dies per"
+
+	para "tornarlo si no"
+	line "t'agrada!"
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> reb"
+	line "un @"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
-	line "last #MON!"
+	text "Pilotes!?"
+	line "Que bones,"
+	cont "m'encanten!"
 	done
 
 _OaksLabText_1d2f0::
-	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
-	cont "you want?"
+	text "Garrover: Au, <PLAYER>,"
+	line "quina Pilota vols?"
 	done
 
 _OaksLabText_1d2f5::
-	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
-	cont "fight against it!"
+	text "Garrover: Si un"
+	line "Mopi salvatge"
+	cont "t'ataca, tu corr"
+
+	para "sempre, que nomes"
+	line "ets un atlot petit"
 	done
 
 _OaksLabText_1d2fa::
